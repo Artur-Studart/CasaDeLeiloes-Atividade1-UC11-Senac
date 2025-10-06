@@ -1,0 +1,1 @@
+# Casa de Leilões\n\nSistema para gerenciamento de leilões, desenvolvido em Java, com integração ao banco de dados MySQL.\n\n## Tecnologias utilizadas\n- Java\n- MySQL\n- Git e GitHub para versionamento
